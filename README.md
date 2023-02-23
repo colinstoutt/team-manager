@@ -14,10 +14,11 @@ https://github.com/colinstoutt/project-4-backend
 
 ## Tech Used
 
-Django
-Postgres
-React
-Node
+- Django
+- Postgres
+- React
+- Node
+- scss
 
 ## User Stories
 
