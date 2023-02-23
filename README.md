@@ -26,7 +26,7 @@ https://trello.com/b/AJBxNixq/sports-management-app
 
 ## Future Enhancements
 
-This app needs authentication. Along with that will be the ability to create your team, those two go hand in hand. The 'upcoming game' seciton on the index page currently does not display the correct data. Need to get Heroku up and running. Make code more DRY.
+This app needs authentication. Along with that will be the ability to create your team, those two go hand in hand. The 'upcoming game' seciton on the index page currently does not display the correct data. Modify team model to be more detailed. Need to get Heroku up and running. Make code more DRY.
 
 
 ## Wireframes
