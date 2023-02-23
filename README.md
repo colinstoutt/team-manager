@@ -1,6 +1,7 @@
 # Team Manager Application
 
 This web app will allow a sports team to keep a record of it's player roster, scedule and potential recruits.
+![Screen Shot 2023-02-22 at 5 06 39 PM](https://user-images.githubusercontent.com/97377111/220799782-1cf40e5b-bf76-4a12-bd82-75c5221d26ba.png)
 
 ## Live Link
 
