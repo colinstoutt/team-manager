@@ -10,7 +10,7 @@ https://vermillion-khapse-53bfce.netlify.app
 
 ## Backend Repository
 
-https://github.com/colinstoutt/project-4-backend
+https://github.com/colinstoutt/team-manager-backend
 
 ## Technology Used
 
