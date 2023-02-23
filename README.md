@@ -12,7 +12,7 @@ https://vermillion-khapse-53bfce.netlify.app
 
 https://github.com/colinstoutt/project-4-backend
 
-## Tech Used
+## Technology Used
 
 - Django
 - Postgres
