@@ -22,7 +22,7 @@ https://github.com/colinstoutt/project-4-backend
 
 ## User Stories
 
-https://trello.com/b/AJBxNixq/sports-management-app
+https://trello.com/b/AJBxNixq/team-manager-app 
 
 ## Future Enhancements
 
